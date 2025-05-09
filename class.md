@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Gift]  
-- Certification: [Meta-Front-End-Developer]  
+- Name: [Your Name Here]  
+- Certification: [Your Certification Name Here]  
 
 ## Instructions
 Please replace the placeholders with your details:
