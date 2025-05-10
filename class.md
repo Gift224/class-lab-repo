@@ -3,6 +3,7 @@
 - Certification: [Your Certification Name Here]
 communication
 community
+Joga Bonito
 
 ## Instructions
 Please replace the placeholders with your details:
