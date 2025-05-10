@@ -1,7 +1,8 @@
 ## Class Information
 - Name: [Your Name Here]  
 - Certification: [Your Certification Name Here]
-
+communication
+community
 
 ## Instructions
 Please replace the placeholders with your details:
