@@ -4,6 +4,7 @@
 communication
 community
 Joga Bonito
+Vamos
 
 ## Instructions
 Please replace the placeholders with your details:
